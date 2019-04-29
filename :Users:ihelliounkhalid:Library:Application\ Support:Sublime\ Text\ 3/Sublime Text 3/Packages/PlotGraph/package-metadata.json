@@ -1,0 +1,1 @@
+{"sublime_text": "*", "version": "0.1.5", "url": "https://github.com/tibsel/PlotGraph", "platforms": ["*"], "dependencies": [], "description": "Plot a column of numbers as a graph, or create a quick curve comparison based on multiple number columns in Sublime Text."}

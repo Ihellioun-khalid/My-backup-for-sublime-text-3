@@ -1,0 +1,15 @@
+{
+    "debug_enable": true,
+    "show_unmatched": true,
+    "high_visibility_enabled_by_default": true,
+    "content_highlight_bar": true,
+    "show_bracket_popup_always": true,
+    "use_custom_popup_bracket_emphasis": true,
+    "align_content_highlight_bar": true,
+    "search_in_widgets": true,
+    "show_in_minimap": true,
+    "high_visibility_color": "__bracket__",
+    "block_cursor_mode": true,
+    "no_multi_select_icons":true,
+    "show_offscreen_bracket_popup":true,
+}

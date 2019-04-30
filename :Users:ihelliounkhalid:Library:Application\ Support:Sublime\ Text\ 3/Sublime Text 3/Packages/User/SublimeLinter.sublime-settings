@@ -1,0 +1,26 @@
+// SublimeLinter Settings - User
+{
+    "debug": true,
+    "linters": {
+        "json": {
+            "strict": false
+        },
+        "scsslint": {
+            "args": ["--config", "path/to/config.yml"]
+        },
+        "clang": {
+            "args": "-fvery-important",
+            "I": [
+                "${folder}/3rdparty/bar/include",
+                "${folder}/3rdparty/baz"
+            ]
+        },
+        "clang++": {
+            "args": "-falso-important"
+        },
+        "rubocop": {
+            "args": ["--config", "path/to/config.yml"]
+        },
+
+    }
+}

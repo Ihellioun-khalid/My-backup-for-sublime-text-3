@@ -1,0 +1,1 @@
+{"platforms": ["osx", "windows"], "url": "https://github.com/julianburr/sublime-import-cost", "version": "0.0.4", "dependencies": [], "sublime_text": ">=3000", "description": "Sublime Text 3 plugin that shows the import costs of imported JS modules"}

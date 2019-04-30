@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/rdeits/SublimeLinter-contrib-mlint", "version": "1.2.0", "dependencies": [], "sublime_text": ">=3000", "description": "A SublimeLinter3 interface to MATLAB mlint"}

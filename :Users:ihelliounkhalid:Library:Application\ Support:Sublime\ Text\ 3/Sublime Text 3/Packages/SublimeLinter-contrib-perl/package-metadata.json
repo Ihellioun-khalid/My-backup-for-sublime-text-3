@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/oschwald/SublimeLinter-perl", "version": "1.3.0", "dependencies": [], "sublime_text": ">=3000", "description": "SublimeLinter plugin for perl -c"}

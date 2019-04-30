@@ -1,10 +1,11 @@
 {
 	"folder_history":
 	[
+		"/Users/ihelliounkhalid/Desktop/test",
 		"/Users/ihelliounkhalid/Desktop/file python good linter"
 	],
 	"last_version": 3207,
-	"last_window_id": 22,
+	"last_window_id": 27,
 	"log_indexing": false,
 	"settings":
 	{
@@ -23,8 +24,44 @@
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SproutCore Snippets and JSHint Integration/JSHint (SproutCore).sublime-build",
+							"default"
+						],
+						[
+							"Packages/sproutcore-sublime-text-2-package/JSHint (SproutCore).sublime-build",
+							"default"
+						]
+					],
+					[
+						"Packages/SproutCore Snippets and JSHint Integration/JSHint (SproutCore).sublime-build",
+						"default"
+					]
+				]
 			],
-			"build_varint": "",
+			"build_varint": "default",
 			"command_palette":
 			{
 				"height": 0.0,
@@ -32,8 +69,8 @@
 				"selected_items":
 				[
 					[
-						"paacka",
-						"Package Control: Remove Package"
+						"es",
+						"ESLint"
 					],
 					[
 						"ins",
@@ -42,6 +79,14 @@
 					[
 						"in",
 						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"paacka",
+						"Package Control: Remove Package"
 					],
 					[
 						"insta",
@@ -84,13 +129,19 @@
 			},
 			"file_history":
 			[
+				"/Users/ihelliounkhalid/Desktop/test/test.html",
+				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/User/cmakelinter.sublime-settings",
+				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/User/ClickableRequires.sublime-settings",
+				"/Users/ihelliounkhalid/Desktop/file python good linter/test.py",
+				"/Users/ihelliounkhalid/Desktop/test/test.php",
+				"/Users/ihelliounkhalid/Desktop/test/test.js",
+				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/User/import-cost.sublime-settings",
 				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
 				"/Users/ihelliounkhalid/Desktop/devdocs.json",
 				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
 				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
 				"/Users/ihelliounkhalid/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/Users/ihelliounkhalid/Desktop/file python good linter/test.py",
 				"/Users/ihelliounkhalid/Desktop/file python good linter/test-module.py"
 			],
 			"find":
@@ -134,11 +185,23 @@
 			"menu_visible": true,
 			"output.SublimeLinter":
 			{
+				"height": 328.0
+			},
+			"output.doc":
+			{
 				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 332.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 423.0
 			},
 			"pinned_build_system": "",
 			"replace":

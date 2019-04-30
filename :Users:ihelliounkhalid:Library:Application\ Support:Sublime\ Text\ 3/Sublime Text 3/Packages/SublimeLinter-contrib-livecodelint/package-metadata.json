@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/trevordevore/sublimelinter-contrib-livecodelint", "version": "1.0.2", "dependencies": [], "sublime_text": ">=3000", "description": "LiveCode linter for SublimeLinter"}

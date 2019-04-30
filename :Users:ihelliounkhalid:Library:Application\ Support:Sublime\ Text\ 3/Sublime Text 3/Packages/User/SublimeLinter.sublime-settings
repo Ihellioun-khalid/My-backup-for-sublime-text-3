@@ -21,6 +21,39 @@
         "rubocop": {
             "args": ["--config", "path/to/config.yml"]
         },
+        "gcc": {
+            "disable": false,
+            // C-specific settings
+            "c_executable": "gcc",
+            "c_extra_flags": [
+                "-fsyntax-only",
+                "-std=c90",
+            ],
+            // C++-specific settings
+            "c++_executable": "g++",
+            "c++_extra_flags": [
+                "-fsyntax-only",
+                "-std=c++11",
+            ],
+            // include_dirs for both C and C++
+            "include_dirs": [
+                "${project_folder}/include",
+                "/usr/local/include",
+            ],
+        },
+        "perl": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "include_dirs": ["/path/to/my/project"]
+            },
+        "livecodelint": {
+            "disable": false,
+            "args": [],
+            "excludes": [],
+            "explicitVariables": "true",
+            "executable": "~/livecode-community-server"
+        }
 
     }
 }
